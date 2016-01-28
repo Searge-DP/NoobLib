@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nooblib",
+  "name": "NoobLib",
+  "description": "Library mod for all NoobTeam mods.",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "http://minecraft.curseforge.com/projects/nooblib",
+  "updateUrl": "",
+  "authorList": ["KitsuneAlex"],
+  "credits": "EwyBoy and BeastLe9enD for supporting me !",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
